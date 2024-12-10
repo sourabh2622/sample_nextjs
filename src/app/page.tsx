@@ -1,4 +1,3 @@
-import Image from "next/image";
 import MainNavbar from "./MainNavbar";
 import HeroSection from "./home/HeroSection";
 
